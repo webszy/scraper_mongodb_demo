@@ -1,0 +1,29 @@
+{
+  "name": "starscraperjs",
+  "version": "1.0.0",
+  "description": "a common scraper for stars profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://e.coding.net/webszy/starScraperjs.git"
+  },
+  "keywords": [
+    "spider",
+    "scraper",
+    "nodejs"
+  ],
+  "author": "webszy",
+  "license": "MIT",
+  "dependencies": {
+    "await-to-js": "^2.1.1",
+    "crawler": "^1.2.1",
+    "fs-extra": "^8.1.0",
+    "mongoose": "^5.7.13",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "useragent-from-seed": "^1.0.1"
+  }
+}
