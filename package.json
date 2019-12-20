@@ -15,6 +15,10 @@
     "scraper",
     "nodejs"
   ],
+  "settings":{
+    "saveLoaction":"images",
+    "proxy":"http://127.0.0.1:1087"
+  },
   "author": "webszy",
   "license": "MIT",
   "dependencies": {
