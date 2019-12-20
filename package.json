@@ -19,8 +19,11 @@
   "license": "MIT",
   "dependencies": {
     "await-to-js": "^2.1.1",
+    "cheerio": "^1.0.0-rc.3",
     "crawler": "^1.2.1",
+    "download": "^7.1.0",
     "fs-extra": "^8.1.0",
+    "images-scraper": "^3.0.1",
     "mongoose": "^5.7.13",
     "request": "^2.88.0",
     "request-promise": "^4.2.5",
